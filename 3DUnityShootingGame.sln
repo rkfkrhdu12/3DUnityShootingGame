@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DUnityShootingGame", "3DUnityShootingGame.csproj", "{DE4244AB-0A08-B337-68DB-90394F794E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DUnityShootingGame.Editor", "3DUnityShootingGame.Editor.csproj", "{243C5D0D-44EC-40B4-E987-F67746E9E759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4244AB-0A08-B337-68DB-90394F794E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4244AB-0A08-B337-68DB-90394F794E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4244AB-0A08-B337-68DB-90394F794E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4244AB-0A08-B337-68DB-90394F794E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243C5D0D-44EC-40B4-E987-F67746E9E759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243C5D0D-44EC-40B4-E987-F67746E9E759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243C5D0D-44EC-40B4-E987-F67746E9E759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243C5D0D-44EC-40B4-E987-F67746E9E759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
